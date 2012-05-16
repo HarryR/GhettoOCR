@@ -1,0 +1,82 @@
+  MODEL                                                                                      WHEEL              ENGINE               MAKE    MODEL   STYLE   AUXILIARY
+  YEAR                     MAKE               MODEL                    BODY TYPE           DRIVE  CYLINDERS  SIZE    TURBO  FUEL SYMBOL  SYMBOL  SYMBOL  SYMBOL      IND
+  2OO3                     AUDI               TT QUATTRO AWD           2 DOOR COUPE               4           1O9     TURBO       AU      TT      24      XX          I
+  1987                     FORD               TAURUS MT5               STATION WAGON              4           153                  FD      TA      W4      XX
+  1991                     PORSCHE            911                      2 DOOR COUPE               6           2O1     TURBO       PR      11      26      XX          I
+  1999                     HONDA              ACCORD EX                4 DOOR SEDAN               4           138                  HD      AC      44      XX
+  1983                     BUICK              REGAL                    4 DOOR SEDAN               8           35O                  BU      RG      XX      XX
+  2OO5                     INFINITI           FX45                     4 DOOR WAGON        4X4    8           274                  FN      FX      5L      XX          I
+  2OO7                     FORD               F15O                     CREW PICKUP         4X4    8           329                  FD      15      EL      XX
+  2OO9                     MAZDA              RX8                      COUPE 4 DOOR                           8O                   MZ      R8      4R      XX
+  2O1O                     AUDI               A6 3.O QUAT PRESTIGE     4 DOOR SEDAN               6           181     SC           AU      A6      46      XX
+  1991                     DODGE              DAKOTA                   CAB CHASSIS         4X2    6           239                  DG      DK      P6      XX
+  1991                     CHRYSLER           LEBARON                  2 DOOR COUPE               6           181                  CY      LB      XX      XX
+  1999                     FORD               F15O                     PICKUP              4X2    8           33O                  FD      15      P8      XX
+  1987                     CHEVROLET          R2O SUBURBAN             INCOMPLETE CHASS    4X2    8           454                  CH      SB      58      XX
+  1986                     AMERICAN MOTORS    ALLIANCE L               4 DOOR SEDAN               4           1O5                  AM      AL      XX      XX
+  1991                     TOYOTA             CAMRY LE                 4 DOOR SEDAN               4           122                  TY      CM      44      XX
+  1997                     CHEVROLET          GEO PRIZM LSI            4 DOOR SEDAN               4           11O                  CH      PR      44      XX
+  1992                     CHEVROLET          CAMARO RS                CONVERTIBLE                6           191                  CH      CM      C6      XX
+  2OO8                     PONTIAC            SOLSTICE                 ROADSTER                   4           146                  PT      SC      C4      XX
+  1984                     NISSAN             MAXIMA                   STATION WAGON              6           146                  NS      MA      W6      XX
+  1984                     TOYOTA             COROLLA LE               4 DOOR SEDAN               4           97                   TY      CL      44      XX
+  2OO3                     JEEP               GRAND CHER LAREDO        4 DOOR WAGON        4X2    6           244                  JP      GC      56      XX
+  199O                     PLYMOUTH           SUNDANCE                 2 DOOR HATCHBACK           4           153                  PL      SU      XX      XX
+  2OO7                     JEEP               COMMANDER OVERLAND       4 DOOR WAGON        4X4    8           348                  JP      CR      5L      XX
+  1998                     CHEVROLET          EXPRESS G35OO            SPORT VAN           4X2    8           35O                  CH      EC      VX      XX            T
+  2OO2                     JEEP               WRGLR SAHARA/TJ SHRA     2 DOOR WAGON        4X4    6           244                  JP      WR      3K      XX
+  2OO7                     AUDI               A4 2.OT AVNT QT AWD      STATION WAGON              4           121     TURBO       AU      A4      W4      XX
+  1981                     CHEVROLET          K1O SUBURBAN             4 DOOR WAGON        4X4    8           35O                  CH      SA      5L      XX
+  2OO2                     CADILLAC           ELDORADO ESC             2 DOOR COUPE               8           279                  CD      EL      28      XX
+  1987                     AMERICAN MOTORS    CHEROKEE PIONEER         2 DOOR WAGON        4X4    6           242                  AM      CH      XX      XX
+  2OO5                     SAAB               92 AERO                  4 DOOR HATCHBACK           4           122     TURBO       SB      NA      44      XX
+  1996                     CHEVROLET          K25OO                    CAB CHASSIS         4X4    8           397                  CH      25      PL      XX
+  2OOO                     KIA                SPORTAGE                 4 DOOR WAGON        4X4    4           122                  KA      SG      5H      XX
+  1988                     CHEVROLET          C35OO                    CLUB CAB PICKUP     4X2    8           379                  CH      35      E8      XX            T
+  1987                     PORSCHE            911 CARRERA              2 DOOR COUPE               6           193                  PR      11      26      XX          I
+  1997                     PONTIAC            GRAND AM SE              2 DOOR COUPE               4           146                  PT      GA      24      XX
+  2OO8                     CHEVROLET          EXPRESS G15OO            SPORT VAN           4X4    8           323                  CH      EA      VX      XX
+  1983                     CHEVROLET          K1O                      PICKUP              4X4    6           25O                  CH      15      PK      XX
+  2OO5                     FORD               FREESTYLE SEL            4 DOOR WAGON        4X4    6           183                  FD      FS      VK      XX
+  1989                     FORD               F35O                     CREW PICKUP         4X2    8           46O                  FD      35      E8      XX            T
+  1988                     FORD               F35O                     CREW PICKUP         4X4    8           46O                  FD      35      EL      XX            T
+  1982                     GMC                C25OO                    CREW PICKUP         4X2    8           35O                  GM      25      E8      XX
+  2OO9                     FORD               F15O                     4 DOOR EXT CAB      4X2    8           281                  FD      15      E8      XX
+  199O                     PONTIAC            GRAND AM SE              2 DOOR COUPE               4           14O                  PT      GA      24      XX
+  1999                     CHEVROLET          C25OO                    PICKUP              4X2    8           454                  CH      25      P8      XX
+  1986                     FORD               ECON VN SUPR E35O        EXTENDED VAN        4X2    8           42O                  FD      EC      GX      XX            T
+  1982                     FORD               ECON VN SUPR E15O        EXTENDED VAN        4X2    8           351                  FD      EA      GX      XX
+  1989                     JEEP               COMANCHE                 PICKUP              4X4    4           15O                  JP      CM      XX      XX
+  1986                     DODGE              OMNI SE                  4 DOOR HATCHBACK           4           135                  DG      N1      XX      XX
+  1984                     DODGE              RAMCHARGER AD-1OO        UTILITY             4X2    8           36O                  DG      RC      XX      XX
+  1988                     FORD               ECONOLINE E15O           CARGO VAN           4X2    8           351                  FD      EA      GX      XX
+  1982                     PONTIAC            6OOO LE                  2 DOOR COUPE               6           263                  PT      ST      XX      XX
+  2OO6                     HONDA              CIVIC DX                 2 DOOR COUPE               4           11O                  HD      CV      24      XX
+  1993                     FORD               FESTIVA GL               2 DOOR HATCHBACK           4           79                   FD      FE      XX      XX
+  1983                     VOLKSWAGEN         RABBIT LS CUSTOM         2 DOOR HATCHBACK           4           97      TURBO       VK      RA      XX      XX
+  1993                     FORD               F35O                     CREW PICKUP         4X4    8           46O                  FD      35      EL      XX            T
+  2OO5                     MERCEDES BENZ      C24O SPT WGN 4M AWD      STATION WAGON              6           158                  MB      CC      W6      XX          I
+  2OO7                     FORD               EDGE SEL AWD             4 DOOR WAGON        4X4    6           214                  FD      ED      5K      XX
+  1991                     CHEVROLET          K25OO                    PICKUP              4X4    6           262                  CH      25      PK      XX
+  2OO5                     LINCOLN            TOWN CAR SIGNATURE       4 DOOR SEDAN               8           281                  LN      TC      48      XX
+  2OO3                     MERCEDES BENZ      CLK32O                   CONVERTIBLE                6           195                  MB      FC      C6      XX          I
+  1985                     PLYMOUTH           RELIANT LE               4 DOOR SEDAN               4           135                  PL      RE      XX      XX
+  1995                     JEEP               GRAND CHEROKEE SE        4 DOOR WAGON        4X4    8           318                  JP      GC      5L      XX
+  1991                     FORD               CLUB WAGON E25O          BUS                 4X2    8           351                  FD      EB      GX      XX
+  2OO3                     GMC                SAVANA G35OO             EXT CARGO VAN       4X2    8           364                  GM      GC      GX      XX            T
+  2OOO                     MERCEDES BENZ      E32O                     4 DOOR SEDAN               6           195                  MB      EC      46      XX          I
+  2OO8                     KIA                SPORTAGE LX              4 DOOR WAGON        4X2    4           122                  KA      SG      54      XX
+  1982                     GMC                RALLY WAGON G25OO        SPORT VAN           4X2    8           35O                  GM      GB      VX      XX
+  2OO4                     BMW                645CI                    CONVERTIBLE                8           268                  BM      6S      C8      XX          I
+  2OO2                     FORD               F15O                     PICKUP              4X2    6           256                  FD      15      P6      XX
+  1988                     BMW                M5                       4 DOOR SEDAN               6           21O                  BM      M5      46      XX          I
+  2OO5                     FORD               EXCURSION LIMITED        4 DOOR WAGON        4X2    8           366                  FD      ER      58      XX
+  1998                     MERCEDES BENZ      CL5OO                    2 DOOR COUPE               8           3O3                  MB      DC      28      XX          I
+  2OO2                     GMC                SAVANA G25OO             EXT CARGO VAN       4X2    6           262                  GM      GB      GX      XX
+  1986                     PONTIAC            SUNBIRD GT               4 DOOR SEDAN               4           11O                  PT      SB      XX      XX
+  2OO8                     HONDA              CIVIC HYBRID             4 DOOR SEDAN               4           79             ELE  HD      CH      44      XX
+
+
+Scan Layout: 57 seconds
+  OCR Lines: 16 seconds
+   Avg Line: 0.21s
